@@ -15,7 +15,10 @@
 <a href="https://instagram.com/arun_tutter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arun_tutter" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/https://www.linkedin.com/in/arunkumar-r2001/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="arunkumar-r2001" height="30" width="40" />
+</a><a href="https://twitter.com/ArunTutter" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ArunTutter" height="30" width="40" />
 </a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
