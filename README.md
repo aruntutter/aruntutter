@@ -2,11 +2,9 @@
 <h3 align="center">A passionate Full Stack Developer from Delhi, India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aruntutter&label=Profile%20views&color=0e75b6&style=flat" alt="aruntutter" /> </p>
-
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aruntutter?tab=repositories](https://github.com/aruntutter?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Repository](https://github.com/aruntutter?tab=repositories)
 
 - 📫 How to reach me **aruntutter19@gmail.com**
 
