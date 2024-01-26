@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning Full Stack Development<br><br>👨‍💻 All of my projects are available at My Repository<br><br>📫 How to reach me aruntutter19@gmail.com
+🌱 I’m currently learning Full Stack Development<br><br>👨‍💻 All of my projects are available at My Repository<br><br>📫 How to reach me reachout.arunkumar.r@gmail.com
 
 
 ## 🌐 Socials:
